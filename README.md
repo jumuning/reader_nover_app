@@ -4,9 +4,23 @@
 
 ## 📱 应用截图
 
-![IMG_5017.PNG](IMG_5017.PNG)![IMG_5017.PNG](IMG_5018.PNG)![IMG_5018.PNG](IMG_5019.PNG)
-![IMG_5020.PNG](IMG_5020.PNG)![IMG_5021.PNG](IMG_5021.PNG)![IMG_5022.PNG](IMG_5022.PNG)
-![IMG_5023.PNG](IMG_5023.PNG)![IMG_5024.PNG](IMG_5024.PNG)![IMG_5025.PNG](IMG_5025.PNG)
+<table>
+  <tr>
+    <td><img src="IMG_5017.PNG" width="200"/></td>
+    <td><img src="IMG_5018.PNG" width="200"/></td>
+    <td><img src="IMG_5019.PNG" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="IMG_5020.PNG" width="200"/></td>
+    <td><img src="IMG_5021.PNG" width="200"/></td>
+    <td><img src="IMG_5022.PNG" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="IMG_5023.PNG" width="200"/></td>
+    <td><img src="IMG_5024.PNG" width="200"/></td>
+    <td><img src="IMG_5025.PNG" width="200"/></td>
+  </tr>
+</table>
 ## ✨ 功能特性
 
 - 📚 **书架管理** - 轻松管理你的小说收藏
