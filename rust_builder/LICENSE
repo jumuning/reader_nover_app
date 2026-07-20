@@ -1,0 +1,15 @@
+Copyright (c) 2026 jumuning. All rights reserved.
+
+This directory contains proprietary precompiled native binaries for the
+Reader Nover application.
+
+Permission is granted to use the unmodified binaries distributed in this
+directory solely to build and run the Reader Nover application from its
+original source distribution.
+
+No permission is granted to modify, reverse engineer, redistribute,
+sublicense, or use these binaries independently of the Reader Nover
+application, except with prior written permission from the copyright holder.
+
+The Apache License 2.0 at the repository root does not apply to the files in
+this directory.

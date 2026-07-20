@@ -9,3 +9,9 @@ Flutter FFI 插件的预编译原生库容器。
 分支提交 `444a664`。
 
 本目录不执行 Cargo、Rust 或 CargoKit 构建步骤。
+
+## 许可证
+
+本目录中的预编译原生二进制为专有软件，适用本目录的 [LICENSE](LICENSE)。
+它们仅可随原始仓库用于构建和运行 Reader Nover，不适用仓库根目录的
+Apache-2.0 许可证。
