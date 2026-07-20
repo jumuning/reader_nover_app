@@ -1,0 +1,8 @@
+# Rust prebuilt artifacts for reader_nover
+# Source main commit: 444a66430dbc9e969b7b61c146f9a4f7d1484fb5
+# FFI binding generator: flutter_rust_bridge 2.10.0
+dcc4df5b1fe4171fee93e0ecef1b176101b5983da03ef69a4e2d8ec9de8a1dff  rust_builder/android/src/main/jniLibs/arm64-v8a/librust_lib_reader_nover.so
+cf2bc0dbe6e98e4c3451b417a0680cfbbdd8e2eb5f23bf877e19253869b9af38  rust_builder/android/src/main/jniLibs/armeabi-v7a/librust_lib_reader_nover.so
+7def1b0298c93f97a355805c22879baa98e4b778b32ca0ead5fdaf768dc32a6e  rust_builder/android/src/main/jniLibs/x86_64/librust_lib_reader_nover.so
+3ccfc516e5ecab533c271c5671944a9692aa9a9db3bea8fba6cf9bffde1aadc3  rust_builder/ios/Frameworks/RustCore.xcframework/ios-arm64-simulator/librust_lib_reader_nover.a
+b6fe6a6379bcaa8c15c4abdc29ce300a72f50eba6620a48a8b5c4cbabff2bdae  rust_builder/ios/Frameworks/RustCore.xcframework/ios-arm64/librust_lib_reader_nover.a

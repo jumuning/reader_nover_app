@@ -1,0 +1,9 @@
+{
+  "scheme": "money",
+  "blendLevelLight": 7,
+  "blendLevelDark": 13,
+  "useMaterial3": true,
+  "swapLegacyOnMaterial3": true,
+  "fontFamily": "阿里巴巴普惠体",
+  "themeMode": "system"
+}
